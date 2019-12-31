@@ -7,7 +7,7 @@ Deploy to PythonAnywhere:
 (5) go to the Web tab and set up the Virtualenv:
      /home/winnpysoft/.virtualenvs/myvirtualenv
 
-(6)
+(6) set up settings in Winnpysoft_pythonanywhere_com_wsgi.py
 
 
 

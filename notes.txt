@@ -9,10 +9,8 @@ Deploy to PythonAnywhere:
 
 (6) set up settings in Winnpysoft_pythonanywhere_com_wsgi.py
 
-
-
-
-
+######################################################################
+# FLASK
 Installation:
     https://flask.palletsprojects.com/en/1.1.x/installation/
 
@@ -39,5 +37,6 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types
 type/subtype
 type/subtype;parameter=value         e.g., text/plain;charset=UTF-8 
 
+## HTML TEMPLATE ###############################
 (1)download univers template from http://www.mashup-template.com/templates.html
 (2) 

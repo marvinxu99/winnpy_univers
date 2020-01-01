@@ -1,0 +1,6 @@
+(1) install selenium:
+    pip install selenium
+
+(2) from selenium import webdriver
+
+(3) selenium docs: https://selenium-python.readthedocs.io/index.html
